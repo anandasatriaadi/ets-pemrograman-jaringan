@@ -1,0 +1,102 @@
+{
+ "1": {
+  "nomor": 1,
+  "nama": "dean henderson",
+  "posisi": "kiper"
+ },
+ "2": {
+  "nomor": 2,
+  "nama": "luke shaw",
+  "posisi": "bek kiri"
+ },
+ "3": {
+  "nomor": 3,
+  "nama": "aaron wan-bissaka",
+  "posisi": "bek kanan" 
+ },
+ "4": {
+  "nomor": 4,
+  "nama": "victor lindelof",
+  "posisi": "bek tengah kanan"
+ },
+ "5": {
+  "nomor": 5,
+  "nama": "andres iniesta",
+  "posisi": "gelandang"
+ },
+ "6": {
+  "nomor": 6,
+  "nama": "radamel falcao",
+  "posisi": "depan"
+ },
+ "7": {
+  "nomor": 7,
+  "nama": "robin van persie",
+  "posisi": "gelandang"
+ },
+ "8": {
+  "nomor": 8,
+  "nama": "andrea pirlo",
+  "posisi": "gelandang"
+ },
+ "9": {
+  "nomor": 9,
+  "nama": "yaya toure",
+  "posisi": "bek tengah kanan 9"
+ },
+ "10": {
+  "nomor": 10,
+  "nama": "edinson cavani",
+  "posisi": "depan"
+ },
+ "11": {
+  "nomor": 11,
+  "nama": "sergio aguero",
+  "posisi": "depan"
+ },
+ "12": {
+  "nomor": 12,
+  "nama": "iker casillas",
+  "posisi": "kiper"
+ },
+ "13": {
+  "nomor": 13,
+  "nama": "neymar",
+  "posisi": "depan"
+ },
+ "14": {
+  "nomor": 14,
+  "nama": "xabi alonso",
+  "posisi": "gelandang"
+ },
+ "15": {
+  "nomor": 15,
+  "nama": "thiago silva",
+  "posisi": "bek"
+ },
+ "16": {
+  "nomor": 16,
+  "nama": "mesut ozil",
+  "posisi": "gelandang"
+ },
+ "17": {
+  "nomor": 17,
+  "nama": "bastian schweinsteiger",
+  "posisi": "gelandang"
+ },
+ "18": {
+  "nomor": 18,
+  "nama": "sergio ramos",
+  "posisi": "bek"
+ },
+ "19": {
+  "nomor": 19,
+  "nama": "gerard pique",
+  "posisi": "bek"
+ },
+ "20": {
+  "nomor": 20,
+  "nama": "ashley cole",
+  "posisi": "bek"
+ }
+}
